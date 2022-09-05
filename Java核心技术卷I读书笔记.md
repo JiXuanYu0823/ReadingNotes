@@ -2016,7 +2016,7 @@ iterator.forEachRemaining(ele -> do something with ele);
 
 - 集合框架中的接口
 
-<img src="C:\Users\Lenovo\Desktop\鱼姬玄的东西\Typora图片\集合框架中的接口.png" style="zoom: 67%;" />
+<img src="https://github.com/JiXuanYu0823/Java-/raw/main/assets/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E4%B8%AD%E7%9A%84%E6%8E%A5%E5%8F%A3.png" style="zoom: 67%;" />
 
 - 集合有两个基本接口：Collection和Map。以Map结尾的类实现了Map接口，其他都实现了Collection接口。
 
